@@ -1,0 +1,6 @@
+../drivers/CMSIS/Include/core_cm4.h:1688:22:__NVIC_EnableIRQ	2
+../drivers/CMSIS/Include/core_cm4.h:1816:22:__NVIC_SetPriority	2
+../Src/fifo.c:12:6:send_ack	3
+../Src/fifo.c:20:6:config_UART	1
+../Src/fifo.c:55:5:fifo_push	1
+../Src/fifo.c:67:5:fifo_pop	2

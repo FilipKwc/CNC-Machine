@@ -1,0 +1,7 @@
+../Src/clkdir.c:20:6:DIRconfig_x	4	static
+../Src/clkdir.c:30:6:DIRconfig_y	4	static
+../Src/clkdir.c:40:6:DIRconfig_z	4	static
+../Src/clkdir.c:50:6:CHIPEconfig_x	4	static
+../Src/clkdir.c:61:6:CHIPEconfig_y	4	static
+../Src/clkdir.c:71:6:CHIPEconfig_z	4	static
+../Src/clkdir.c:83:6:ChipEnable	16	static

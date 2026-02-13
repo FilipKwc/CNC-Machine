@@ -1,0 +1,7 @@
+../drivers/CMSIS/Include/core_cm4.h:1688:22:__NVIC_EnableIRQ	16	static
+../drivers/CMSIS/Include/core_cm4.h:1816:22:__NVIC_SetPriority	16	static
+../Src/timers.c:10:6:clock_config	4	static
+../Src/timers.c:31:6:configure_y_TIMER15	8	static
+../Src/timers.c:51:6:configure_x_TIMER2	8	static
+../Src/timers.c:69:6:configure_z_TIMER17	8	static
+../Src/timers.c:90:6:pwmconfigration	4	static

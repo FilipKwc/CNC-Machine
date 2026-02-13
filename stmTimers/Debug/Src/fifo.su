@@ -1,0 +1,6 @@
+../drivers/CMSIS/Include/core_cm4.h:1688:22:__NVIC_EnableIRQ	16	static
+../drivers/CMSIS/Include/core_cm4.h:1816:22:__NVIC_SetPriority	16	static
+../Src/fifo.c:12:6:send_ack	4	static
+../Src/fifo.c:20:6:config_UART	8	static
+../Src/fifo.c:55:5:fifo_push	24	static
+../Src/fifo.c:67:5:fifo_pop	16	static

@@ -1,0 +1,8 @@
+"./Src/clkdir.o"
+"./Src/fifo.o"
+"./Src/main.o"
+"./Src/motor.o"
+"./Src/syscalls.o"
+"./Src/sysmem.o"
+"./Src/timers.o"
+"./Startup/startup_stm32f303retx.o"

@@ -1,0 +1,10 @@
+C:\Users\Kwief\source\repos\ServoKontroler\ServoKontroler\bin\Debug\ServoKontroler.exe.config
+C:\Users\Kwief\source\repos\ServoKontroler\ServoKontroler\bin\Debug\ServoKontroler.exe
+C:\Users\Kwief\source\repos\ServoKontroler\ServoKontroler\bin\Debug\ServoKontroler.pdb
+C:\Users\Kwief\source\repos\ServoKontroler\ServoKontroler\obj\Debug\ServoKontroler.csproj.AssemblyReference.cache
+C:\Users\Kwief\source\repos\ServoKontroler\ServoKontroler\obj\Debug\ServoKontroler.Form1.resources
+C:\Users\Kwief\source\repos\ServoKontroler\ServoKontroler\obj\Debug\ServoKontroler.Properties.Resources.resources
+C:\Users\Kwief\source\repos\ServoKontroler\ServoKontroler\obj\Debug\ServoKontroler.csproj.GenerateResource.cache
+C:\Users\Kwief\source\repos\ServoKontroler\ServoKontroler\obj\Debug\ServoKontroler.csproj.CoreCompileInputs.cache
+C:\Users\Kwief\source\repos\ServoKontroler\ServoKontroler\obj\Debug\ServoKontroler.exe
+C:\Users\Kwief\source\repos\ServoKontroler\ServoKontroler\obj\Debug\ServoKontroler.pdb
