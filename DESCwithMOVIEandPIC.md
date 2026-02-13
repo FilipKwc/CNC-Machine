@@ -1,4 +1,4 @@
-CNC-Machine dirlling bitmap bare-metal project, machin state control.
+CNC-Machine dirlling bitmap bare-metal project, machine state control.
 
 
 
